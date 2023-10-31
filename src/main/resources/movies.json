@@ -1,0 +1,211 @@
+{
+  "movies":[
+    {
+      "title":"The Shawshank Redemption",
+      "director":{
+        "firstName":"Frank",
+        "lastName":"Darabont"
+      },
+      "genre":"DRAMA",
+      "date":"1994",
+      "actors":[
+        {
+          "firstName":"Tim",
+          "lastName":"Robbins"
+        },
+        {
+          "firstName":"Morgan",
+          "lastName":"Freeman"
+        },
+        {
+          "firstName":"Bob",
+          "lastName":"Gunton"
+        }
+      ]
+    },
+    {
+      "title":"Seven",
+      "director":{
+        "firstName":"David",
+        "lastName":"Fincher"
+      },
+      "genre":"THRILLER",
+      "date":"1995",
+      "actors":[
+        {
+          "firstName":"Morgan",
+          "lastName":"Freeman"
+        },
+        {
+          "firstName":"Brad",
+          "lastName":"Pitt"
+        },
+        {
+          "firstName":"Gwyneth",
+          "lastName":"Paltrow"
+        }
+      ]
+    },
+	   {
+      "title":"The Flash",
+      "director":{
+        "firstName":"Andrés",
+        "lastName":"Muschietti"
+      },
+      "genre":"ACTION",
+      "date":"2023",
+      "actors":[
+        {
+          "firstName":"Ezra",
+          "lastName":"Miller"
+        },
+        {
+          "firstName":"Michael",
+          "lastName":"Keaton"
+        },
+        {
+          "firstName":"Ben",
+          "lastName":"Affleck"
+        }
+      ]
+    },
+	   {
+      "title":"Fantastic Beasts and Where to Find Them",
+      "director":{
+        "firstName":"David",
+        "lastName":"Yates"
+      },
+      "genre":"FANTASY",
+      "date":"2016",
+      "actors":[
+        {
+          "firstName":"Eddie",
+          "lastName":"Redmayne"
+        },
+        {
+          "firstName":"Ezra",
+          "lastName":"Miller"
+        },
+        {
+          "firstName":"Johnny",
+          "lastName":"Depp"
+        }
+      ]
+    },
+	   {
+      "title":"Pirates of the Caribbean: The Curse of the Black Pearl",
+      "director":{
+        "firstName":"Gore",
+        "lastName":"Verbinski"
+      },
+      "genre":"FANTASY",
+      "date":"2003",
+      "actors":[
+        {
+          "firstName":"Johnny",
+          "lastName":"Depp"
+        },
+        {
+          "firstName":"Keira",
+          "lastName":"Knightley"
+        },
+        {
+          "firstName":"Orlando",
+          "lastName":"Bloom"
+        }
+      ]
+    },
+    {
+      "title": "Pride & Prejudice",
+      "director": {
+        "firstName": "Joe",
+        "lastName": "Wright"
+      },
+      "genre": "DRAMA",
+      "date": "2006",
+      "actors": [
+        {
+          "firstName": "Keira",
+          "lastName": "Knightley"
+        },
+        {
+          "firstName": "Matthew",
+          "lastName": "Macfadyen"
+        },
+        {
+          "firstName": "Carey",
+          "lastName": "Mulligan"
+        }
+      ]
+    },
+    {
+      "title": "Batman v Superman: Dawn of Justice",
+      "director": {
+        "firstName": "Zack",
+        "lastName": "Snider"
+      },
+      "genre": "ACTION",
+      "date": "2016",
+      "actors": [
+        {
+          "firstName": "Ben",
+          "lastName": "Affleck"
+        },
+        {
+          "firstName": "Henry",
+          "lastName": "Cavill"
+        },
+        {
+          "firstName": "Gal",
+          "lastName": "Gadot"
+        }
+      ]
+    },
+    {
+      "title": "Gone girl",
+      "director": {
+        "firstName": "David",
+        "lastName": "Fincher"
+      },
+      "genre": "THRILLER",
+      "date": "2014",
+      "actors": [
+        {
+          "firstName": "Ben",
+          "lastName": "Affleck"
+        },
+        {
+          "firstName": "Rosamund",
+          "lastName": "Pike"
+        },
+        {
+          "firstName": "Emily",
+          "lastName": "Ratajkowski"
+        }
+      ]
+    },
+    {
+      "title": "Aquaman and the Lost Kingdom",
+      "director": {
+        "firstName": "James",
+        "lastName": "Wan"
+      },
+      "genre": "ACTION",
+      "date": "2023",
+      "actors": [
+        {
+          "firstName": "Jason",
+          "lastName": "Mamoa"
+        },
+        {
+          "firstName": "Amber",
+          "lastName": "Heard"
+        },
+        {
+          "firstName": "Ben",
+          "lastName": "Affleck"
+        }
+      ]
+    }
+  ]
+}
